@@ -1,0 +1,1 @@
+./remote_monitor 192.168.1.30 orangepi Necessary87215 75 60

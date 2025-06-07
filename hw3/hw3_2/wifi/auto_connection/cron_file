@@ -1,0 +1,7 @@
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+# Auto-connect Wi-Fi once a minute
+* * * * * /usr/local/bin/auto_connect_wifi.sh
+
+# Also run the script once at every reboot
+@reboot /usr/local/bin/auto_connect_wifi.sh

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsshconnection.a CMakeFiles/sshconnection.dir/src/ssh_connection.cpp.o
+/usr/bin/ranlib libsshconnection.a

@@ -1,0 +1,1 @@
+nmcli dev wifi connect "Redmi Note 11 Pro 5G" password 1234554321ali ifname wlan0

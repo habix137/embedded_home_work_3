@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhardware_monitor.a CMakeFiles/hardware_monitor.dir/src/hardware_monitor.cpp.o
+/usr/bin/ranlib libhardware_monitor.a

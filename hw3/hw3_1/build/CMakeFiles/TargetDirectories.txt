@@ -1,0 +1,9 @@
+/home/ali/embedded/module/hw3/hw3_1/build/CMakeFiles/sshconnection.dir
+/home/ali/embedded/module/hw3/hw3_1/build/CMakeFiles/hardware_monitor.dir
+/home/ali/embedded/module/hw3/hw3_1/build/CMakeFiles/remote_monitor.dir
+/home/ali/embedded/module/hw3/hw3_1/build/CMakeFiles/edit_cache.dir
+/home/ali/embedded/module/hw3/hw3_1/build/CMakeFiles/rebuild_cache.dir
+/home/ali/embedded/module/hw3/hw3_1/build/CMakeFiles/list_install_components.dir
+/home/ali/embedded/module/hw3/hw3_1/build/CMakeFiles/install.dir
+/home/ali/embedded/module/hw3/hw3_1/build/CMakeFiles/install/local.dir
+/home/ali/embedded/module/hw3/hw3_1/build/CMakeFiles/install/strip.dir
